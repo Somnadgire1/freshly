@@ -1,0 +1,61 @@
+.ourClient{
+width: 1199.5465087890625px;
+height: 124px;
+margin-top: 464px;
+/* margin-left: 120px; */
+/* background: rgb(117, 91, 91); */
+}
+.heading h1{
+font-family: Averta Demo PE Cutted Demo;
+font-size: 40px;
+font-weight: 400;
+margin-left: 120px;
+line-height: 49px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.heading p{
+font-family: Averta Demo PE Cutted Demo;
+font-size: 18px;
+font-weight: 400;
+margin-left: 120px;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.logos{
+    display: flex;
+    margin-top: -85px;
+}
+.logos .googleLogo{
+width: 150.48309326171875px;
+height: 49.37726593017578px;
+margin-left: 516px;
+padding: 0.07612145692110062px 0.2746317982673645px 0.012520663440227509px 0.2187153548002243px;
+}
+.logos .airbnbLogo{
+width: 166.40902709960938px;
+height: 52.14149475097656px;
+margin-left: 50px;
+
+}
+.logos .uberEatsLogo{
+width: 166.40902709960938px;
+height: 27.734838485717773px;
+margin-top: 10px;
+margin-left: 50px;
+padding: 0.5683477520942688px 0.15790605545043945px 0.17958468198776245px 0.536597728729248px;
+
+}
+.amazonLogo{
+width: 141.54652404785156px;
+height: 42.605499267578125px;
+margin-top: 10px;
+margin-left: 50px;
+
+}
+.DotOrnament{
+
+}

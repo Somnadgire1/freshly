@@ -1,0 +1,72 @@
+.App {
+    text-align: center;
+  }
+  .topmenu {
+    width: 1440px;
+  height: 4102px;
+  background: rgba(220, 254, 254, 1);
+  }
+  .navbar {
+  width: 1200px;
+  height: 34px;
+  margin-top: 42px;
+  margin-left: 120px;
+  border: 0.2px solid rgb(245, 127, 127);
+  }
+  .navbar-brand {
+    font-family: Proxima Nova;
+  font-size: 27px;
+  font-weight: 700;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+  /* font-family: Averta Demo PE Cutted Demo;
+  font-size: 27px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left; */
+  }
+  
+  .navbar-nav {
+    width: 645px;
+    margin-left: auto;
+    text-align: right;
+  }
+  .navbar-item .nav-link {
+    color: rgba(0, 0, 0, 1);
+    font-weight: 700;
+    margin-left: 30px;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

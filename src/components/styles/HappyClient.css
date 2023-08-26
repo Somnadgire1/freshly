@@ -1,0 +1,109 @@
+.happyClient{
+    width: 1264px;
+    height: 597px;
+    margin-top: 117px;
+    margin-left: 107px;
+    border-radius: 500px 0px 500px 500px;
+    -webkit-border-radius: 500px 0px 500px 500px;
+    -moz-border-radius: 500px 0px 500px 500px;
+    -ms-border-radius: 500px 0px 500px 500px;
+    -o-border-radius: 500px 0px 500px 500px;
+    background-color: darkkhaki;
+}
+
+.dia{
+    position: relative;
+}
+
+.dia .ellipse93{
+    position: absolute;
+    width: 184px;
+    height: 184px;
+    top: 315px;
+    left: 1044px;
+    border-radius: 100%;
+    background: rgba(255, 245, 219, 1);
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.dia .ellipse94{
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    top: 450px;
+    left: 50px;
+    border: 8.800000190734863px;
+    color: rgba(255, 0, 122, 1);
+    border: 8.8px solid rgba(255, 0, 122, 1);
+    border-radius: 100%;
+}
+
+.dia .dots img{
+    position: absolute;
+    width: 196px;
+    height: 154px;
+    top: 160px;
+    left: 340px;
+    
+}
+
+.clientHead h1{
+    width: 485px;
+    height: 49px;
+    margin-top: 6px;
+    margin-left: 477px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    /* border: 1px solid rgba(0, 0, 0, 1); */
+}
+
+.clientHead p{
+    width: 588px;
+    height: 29px;
+    margin-top: 14px;
+    margin-left: 432px;
+    font-family: Averta Demo PE Cutted Demo;
+font-size: 18px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(117, 117, 117, 1);
+
+    
+}
+
+.person{
+    position: relative;
+    width: 389px;
+    height: 389px;
+    top: 73px;
+    left: 50px;
+    border-radius: 500px 0px 500px 500px;
+    -webkit-border-radius: 500px 0px 500px 500px;
+    -moz-border-radius: 500px 0px 500px 500px;
+    -ms-border-radius: 500px 0px 500px 500px;
+    -o-border-radius: 500px 0px 500px 500px;
+    box-shadow: 10px 20px 50px 0px rgba(0, 0, 0, 0.15);
+
+}
+
+.dia{
+
+}
+
+.dia{
+
+}
+
+.dia{
+
+}

@@ -1,0 +1,95 @@
+.container{
+    
+    width: 471px;
+    height: 265px;
+    top: 239px;
+    left: 120px;
+    border-radius:60px; 
+    border: 1px;
+}
+
+.img8{
+    position: absolute;
+    width: 754px;
+    height: 512px;
+    margin-top: 76px;
+    margin-left: -65px;
+    border-radius: 0px 0px 0px 200px;
+    -webkit-border-radius: 0px 0px 0px 200px;
+    -moz-border-radius: 0px 0px 0px 200px;
+    -ms-border-radius: 0px 0px 0px 200px;
+    -o-border-radius: 0px 0px 0px 200px;
+}
+.ellipse{
+    position: relative;
+    width: 129px;
+    height: 129px;
+    margin-top: 76px;
+    margin-left: -70px;
+    
+    
+}
+
+.content{
+width: 471px;
+height: 265px;
+top: 239px;
+margin-left: -50px;
+border-radius: 60px;
+border: 1px;
+
+}
+
+.heading h1{
+font-family: Averta Demo PE Cutted Demo;
+font-size: 40px;
+font-weight: 400;
+line-height: 49px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.body p{
+font-family: Averta Demo PE Cutted Demo;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-top: 40px;
+letter-spacing: 0em;
+text-align: left;
+}
+.heading .btn{
+    width: Hug (215px);
+    height: Hug (65px);
+    margin-top: -180px;
+    margin-left: -125px;
+    padding: 20px 40px 20px 40px;
+    border-radius: 60px;
+    gap: 10px;
+    color: rgba(254, 254, 254, 1);
+    background: rgba(38, 57, 237, 1);
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    position: absolute;
+}
+.DotOrnament{
+    margin-top: 48px;
+    margin-left: -21px;
+    position: relative;
+    background: red;
+}
+.rectangle23{
+    background: rgba(255, 245, 219, 1);
+    position: absolute;
+    width: 190px;
+    height: 110px;
+    margin-top: 383px;
+    margin-left: 66em;
+    border-radius: 0px 0px 100px 0px;
+    -webkit-border-radius: 0px 0px 100px 0px;
+    -moz-border-radius: 0px 0px 100px 0px;
+    -ms-border-radius: 0px 0px 100px 0px;
+    -o-border-radius: 0px 0px 100px 0px;
+}
