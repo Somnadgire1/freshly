@@ -1,16 +1,16 @@
-.service{
-width: 1358px;
-height: 867px;
-margin-top: 94px;
-margin-left: 82px;
-background-color: chocolate;
+.service {
+    width: 1358px;
+    height: 867px;
+    margin-top: 94px;
+    margin-left: 0px;
+
 }
 
-.rectangles .rectangle24{
-    width: 1047px;
+.rectangles .rectangle24 {
+    width: 1045px;
     height: 619px;
     margin-top: 141px;
-    margin-left: 261px;
+    margin-left: 259px;
     background: rgba(244, 249, 255, 1);
     border-radius: 150px 0px 0px 0px;
     -webkit-border-radius: 150px 0px 0px 0px;
@@ -20,14 +20,15 @@ background-color: chocolate;
     position: absolute;
 }
 
-.diagram{
+.diagram {
     position: relative;
 }
-.rectangles .rectangle25{
+
+.rectangles .rectangle25 {
     width: 178.00000000000068px;
     height: 178.00000000000068px;
     margin-top: 280px;
-    margin-left: -13px;
+    margin-left: -3px;
     background: rgba(255, 245, 219, 1);
     border-radius: 0px 0px 100px 0px;
     transform: rotate(180deg);
@@ -42,7 +43,7 @@ background-color: chocolate;
     position: absolute;
 }
 
-.ellipse87{
+.ellipse87 {
     position: absolute;
     width: 120px;
     height: 120px;
@@ -56,22 +57,22 @@ background-color: chocolate;
     -o-border-radius: 100%;
 }
 
-.DotOrnament2{
+.DotOrnament2 {
     position: absolute;
     width: 405px;
-height: 154px;
-margin-top: 652px;
-margin-left: 125px;
+    height: 154px;
+    margin-top: 652px;
+    margin-left: 125px;
 }
 
-.groups .group65{
+.groups .group65 {
     width: 308px;
     height: 379px;
     margin-top: -90px;
-    left: 507px;
+    margin-left: 490px;
     border-radius: 30px;
     border: 1px solid rgba(242, 242, 242, 1);
-    background: linear-gradient(0deg, #F2F2F2, #F2F2F2),linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background: linear-gradient(0deg, #F2F2F2, #F2F2F2), linear-gradient(0deg, #FFFFFF, #FFFFFF);
     box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
@@ -79,14 +80,14 @@ margin-left: 125px;
     -o-border-radius: 30px;
 }
 
-.groups .group66{
+.groups .group66 {
     width: 308px;
-height: 379px;
-margin-top: 20px;
-left: 507px;
-border-radius: 30px;
+    height: 379px;
+    margin-top: 20px;
+    left: 490px;
+    border-radius: 30px;
     border: 1px solid rgba(242, 242, 242, 1);
-    background: linear-gradient(0deg, #F2F2F2, #F2F2F2),linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background: linear-gradient(0deg, #F2F2F2, #F2F2F2), linear-gradient(0deg, #FFFFFF, #FFFFFF);
     box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
@@ -94,29 +95,14 @@ border-radius: 30px;
     -o-border-radius: 30px;
 }
 
-.groups .group67{
-width: 308px;
-height: 379px;
-margin-top: -54.3em;
-left: 849px;
-border-radius: 30px;
-    border: 1px solid rgba(242, 242, 242, 1);
-    background: linear-gradient(0deg, #F2F2F2, #F2F2F2),linear-gradient(0deg, #FFFFFF, #FFFFFF);
-    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
-    -webkit-border-radius: 30px;
-    -moz-border-radius: 30px;
-    -ms-border-radius: 30px;
-    -o-border-radius: 30px;
-}
-
-.groups .group68{
+.groups .group67 {
     width: 308px;
-height: 379px;
-margin-top: 20px;
-left: 849px;
-border-radius: 30px;
+    height: 379px;
+    margin-top: -54.3em;
+    left: 849px;
+    border-radius: 30px;
     border: 1px solid rgba(242, 242, 242, 1);
-    background: linear-gradient(0deg, #F2F2F2, #F2F2F2),linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    background: linear-gradient(0deg, #F2F2F2, #F2F2F2), linear-gradient(0deg, #FFFFFF, #FFFFFF);
     box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
     -webkit-border-radius: 30px;
     -moz-border-radius: 30px;
@@ -124,45 +110,61 @@ border-radius: 30px;
     -o-border-radius: 30px;
 }
 
-.groups .group69{
-width: 396px;
-height: 180px;
-top: 340px;
-left: 50px;
-padding: 1px;
-border:  rgba(244, 249, 255, 1);
-background-color:  rgba(250, 248, 248, 0.1);;
-/* border: 1px solid rgba(0, 0, 0, 0.1); */
+.groups .group68 {
+    width: 308px;
+    height: 379px;
+    margin-top: 20px;
+    left: 849px;
+    border-radius: 30px;
+    border: 1px solid rgba(242, 242, 242, 1);
+    background: linear-gradient(0deg, #F2F2F2, #F2F2F2), linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    box-shadow: 0px 10px 50px 0px rgba(0, 0, 0, 0.05);
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+.groups .group69 {
+    width: 396px;
+    height: 180px;
+    top: 340px;
+    left: 50px;
+    padding: 1px;
+    border: rgba(244, 249, 255, 1);
+    background-color: rgba(250, 248, 248, 0.1);
+    ;
+    /* border: 1px solid rgba(0, 0, 0, 0.1); */
 
 }
 
-.group69 h5{
+.group69 h5 {
     width: 358px;
-height: 98px;
-/* top: 1342px;
+    height: 98px;
+    /* top: 1342px;
 left: 121px; */
-border: 1px;
-font-family: Averta Demo PE Cutted Demo;
-font-size: 40px;
-font-weight: 400;
-line-height: 49px;
-letter-spacing: 0em;
-text-align: left;
+    border: 1px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
 }
 
-.group69 p{
-width: 396px;
-height: 52px;
-margin-top: 20px;
-font-family: Averta Demo PE Cutted Demo;
-font-size: 16px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0em;
-text-align: left;
+.group69 p {
+    width: 396px;
+    height: 52px;
+    margin-top: 20px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
 }
 
-.business{
+.business {
     width: 121px;
     height: 121px;
     border-radius: 20px;
@@ -176,7 +178,7 @@ text-align: left;
 
 }
 
-.development{
+.development {
     width: 121px;
     height: 121px;
     margin-left: 70px;
@@ -190,7 +192,7 @@ text-align: left;
 
 }
 
-.financial{
+.financial {
     width: 121px;
     height: 121px;
     margin-left: 70px;
@@ -204,7 +206,7 @@ text-align: left;
 
 }
 
-.market{
+.market {
     width: 121px;
     height: 121px;
     margin-left: 70px;
@@ -218,7 +220,16 @@ text-align: left;
 
 }
 
-.business img,.development img,.financial img,.market img{
-width: 74px;
-height: 74px;
+.business img,
+.development img,
+.financial img,
+.market img {
+    width: 74px;
+    height: 74px;
 }
+
+@media screen and (max-width: 3100px) {
+    .rectangles .rectangle24 {
+        width: 959px;
+    }
+ }

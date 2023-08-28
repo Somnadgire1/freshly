@@ -1,6 +1,10 @@
 #Frontend Developer Intern - Task Assignment
 
-hosted link - 
+#hosted link (netlify) - https://zesty-fairy-d12b6e.netlify.app/
+
+#Tech-Stack - React.js.
+
+#Font awesome - for using Logo's.
 
 # Getting Started with Create React App
 

@@ -1,0 +1,184 @@
+.footer {
+    position: relative;
+    width: 1200px;
+    height: 348px;
+    top: 457px;
+    left: 0px;
+}
+
+.footer .aPlusStudio h1 {
+    width: 106px;
+    height: 30px;
+    margin-top: 50px;
+    margin-left: 0px;
+    font-family: Proxima Nova;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.footer .aPlusStudio p {
+    width: 270px;
+    height: 88px;
+    margin-top: 30px;
+    left: 0px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.footer .whatWeDo h1 {
+    width: 119px;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 75px;
+    border: 0.4000000059604645px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.footer .whatWeDo ul {
+    width: 13em;
+}
+
+.socialMedia {
+    margin-left: -140px;
+}
+
+.socialMedia a {
+    text-decoration: none;
+    color: bisque;
+    margin: 10px;
+    border: 0.1px;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.socialMedia a i {
+    width: 30px;
+    height: 30px;
+    padding: 10px 5px 10px;
+}
+
+.socialMedia .facebook {
+    background-color: blue;
+}
+
+.socialMedia .twitter {
+    background-color: rgb(6, 250, 250);
+}
+
+.socialMedia .linkedin {
+    background-color: rgb(32, 121, 255);
+}
+
+.footer ul {
+    list-style: none;
+    margin-top: 30px;
+}
+
+.footer ul li {
+    list-style: none;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 14px;
+    margin-left: 50px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.footer .companies h1 {
+    width: 90px;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 75px;
+    border: 0.4000000059604645px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.footer .companies ul {
+    width: 15em;
+}
+
+.footer .super h1 {
+    width: 74px;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 75px;
+    border: 0.4000000059604645px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+.footer .contacting h1 {
+    width: 75px;
+    height: 25px;
+    margin-top: 50px;
+    margin-left: 75px;
+    border: 0.4000000059604645px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.copywriter p {
+    justify-content: center;
+    text-align: center;
+    width: 186px;
+    height: 22px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(164, 164, 164, 1);
+    margin-top: 40px;
+    margin-left: 40%;
+}
+
+.line7 {
+    width: 1200px;
+    margin-top: 10px;
+    color: rgba(241, 241, 241, 1);
+    border: 1px solid rgba(241, 241, 241, 1)
+}

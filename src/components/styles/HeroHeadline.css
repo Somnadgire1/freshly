@@ -1,64 +1,67 @@
-.container{
-    
+.container {
+
     width: 471px;
     height: 265px;
     top: 239px;
     left: 120px;
-    border-radius:60px; 
+    border-radius: 60px;
     border: 1px;
 }
 
-.img8{
+.img8 {
     position: absolute;
     width: 754px;
     height: 512px;
     margin-top: 76px;
-    margin-left: -65px;
+    margin-left: -157px;
     border-radius: 0px 0px 0px 200px;
     -webkit-border-radius: 0px 0px 0px 200px;
     -moz-border-radius: 0px 0px 0px 200px;
     -ms-border-radius: 0px 0px 0px 200px;
     -o-border-radius: 0px 0px 0px 200px;
 }
-.ellipse{
+
+.ellipse {
     position: relative;
     width: 129px;
     height: 129px;
     margin-top: 76px;
-    margin-left: -70px;
-    
-    
-}
+    left: -93px;
 
-.content{
-width: 471px;
-height: 265px;
-top: 239px;
-margin-left: -50px;
-border-radius: 60px;
-border: 1px;
 
 }
 
-.heading h1{
-font-family: Averta Demo PE Cutted Demo;
-font-size: 40px;
-font-weight: 400;
-line-height: 49px;
-letter-spacing: 0em;
-text-align: left;
+.content {
+    width: 471px;
+    height: 265px;
+    top: 239px;
+    margin-left: -50px;
+    border-radius: 60px;
+    border: 1px;
 
 }
-.body p{
-font-family: Averta Demo PE Cutted Demo;
-font-size: 16px;
-font-weight: 400;
-line-height: 26px;
-margin-top: 40px;
-letter-spacing: 0em;
-text-align: left;
+
+.heading h1 {
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+
 }
-.heading .btn{
+
+.body p {
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-top: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.heading .btn {
     width: Hug (215px);
     height: Hug (65px);
     margin-top: -180px;
@@ -74,19 +77,20 @@ text-align: left;
     -o-border-radius: 60px;
     position: absolute;
 }
-.DotOrnament{
+
+.DotOrnament {
     margin-top: 48px;
     margin-left: -21px;
     position: relative;
-    background: red;
 }
-.rectangle23{
+
+.rectangle23 {
     background: rgba(255, 245, 219, 1);
     position: absolute;
     width: 190px;
     height: 110px;
     margin-top: 383px;
-    margin-left: 66em;
+    margin-left: 59em;
     border-radius: 0px 0px 100px 0px;
     -webkit-border-radius: 0px 0px 100px 0px;
     -moz-border-radius: 0px 0px 100px 0px;

@@ -1,15 +1,15 @@
-.greatSince{
-width: 1200px;
-height: 436px;
-margin-top: 146px;
-margin-left: 120px;
-border: 1px solid rgba(0, 0, 0, 1);
+.greatSince {
+    width: 1200px;
+    height: 436px;
+    margin-top: 146px;
+    margin-left: 0px;
 }
-.geo{
+
+.geo {
     position: relative;
 }
 
-.rectangle26{
+.rectangle26 {
     position: absolute;
     width: 178px;
     height: 178px;
@@ -23,12 +23,12 @@ border: 1px solid rgba(0, 0, 0, 1);
     -o-border-radius: 0px 0px 100px 0px;
 }
 
-.ellipse86{
+.ellipse86 {
     position: absolute;
     width: 129px;
     height: 129px;
-    top: 305px;
-    left: 582px;
+    top: 325px;
+    left: 491px;
     border-radius: 100%;
     background: rgba(255, 245, 219, 1);
     -webkit-border-radius: 100%;
@@ -37,12 +37,12 @@ border: 1px solid rgba(0, 0, 0, 1);
     -o-border-radius: 100%;
 }
 
-.unsplash{
+.unsplash {
     position: relative;
     width: 550px;
     height: 372px;
     margin-top: 0px;
-    left: 70px;
+    left: 0px;
     border-radius: 32px;
     -webkit-border-radius: 32px;
     -moz-border-radius: 32px;
@@ -52,43 +52,49 @@ border: 1px solid rgba(0, 0, 0, 1);
     box-shadow: 5px 2px 3px 0px rgba(0, 0, 0, 0.15);
 }
 
-.unsplash .playBtn img{
-position: relative;
-width: 78px;
-height: 78px;
-margin-top: -555px;
-margin-left: 73px;
+.unsplash .playBtn img {
+    position: relative;
+    width: 78px;
+    height: 78px;
+    margin-top: -555px;
+    margin-left: 73px;
+}
 
+.container .containt {
+    position: relative;
+    width: 468px;
+    height: 98px;
+    top: -287px;
+    left: 815px;
 
 }
 
-.container .containt{
-position: relative;
-width: 468px;
-height: 98px;
-top: -287px;
-left: 815px;
-
-}
-
-.containt h1{
+.containt h1 {
     font-family: Averta Demo PE Cutted Demo;
-font-size: 40px;
-font-weight: 400;
-line-height: 49px;
-letter-spacing: 0em;
-text-align: left;
-color: rgba(0, 0, 0, 1);
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
 
 }
 
-.containt p{
-font-family: Averta Demo PE Cutted Demo;
-font-size: 16px;
-margin-top: 20px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0em;
-text-align: left;
-color: rgba(86, 86, 86, 1);
+.containt p {
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(86, 86, 86, 1);
 }
+@media screen and (max-width: 3100px) {
+    .container .containt {
+        left: 750px;
+    }
+    .rectangle26 {
+        left: 720px;
+    }
+ }

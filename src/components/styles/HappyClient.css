@@ -1,21 +1,21 @@
-.happyClient{
+.happyClient {
+    position: relative;
     width: 1264px;
     height: 597px;
-    margin-top: 117px;
-    margin-left: 107px;
+    top: 107px;
+    left: -90px;
     border-radius: 500px 0px 500px 500px;
     -webkit-border-radius: 500px 0px 500px 500px;
     -moz-border-radius: 500px 0px 500px 500px;
     -ms-border-radius: 500px 0px 500px 500px;
     -o-border-radius: 500px 0px 500px 500px;
-    background-color: darkkhaki;
 }
 
-.dia{
+.dia {
     position: relative;
 }
 
-.dia .ellipse93{
+.dia .ellipse93 {
     position: absolute;
     width: 184px;
     height: 184px;
@@ -29,7 +29,7 @@
     -o-border-radius: 100%;
 }
 
-.dia .ellipse94{
+.dia .ellipse94 {
     position: absolute;
     width: 120px;
     height: 120px;
@@ -41,16 +41,16 @@
     border-radius: 100%;
 }
 
-.dia .dots img{
+.dia .dots img {
     position: absolute;
     width: 196px;
     height: 154px;
     top: 160px;
     left: 340px;
-    
+
 }
 
-.clientHead h1{
+.clientHead h1 {
     width: 485px;
     height: 49px;
     margin-top: 6px;
@@ -65,28 +65,28 @@
     /* border: 1px solid rgba(0, 0, 0, 1); */
 }
 
-.clientHead p{
+.clientHead p {
     width: 588px;
     height: 29px;
     margin-top: 14px;
     margin-left: 432px;
     font-family: Averta Demo PE Cutted Demo;
-font-size: 18px;
-font-weight: 400;
-line-height: 29px;
-letter-spacing: 0em;
-text-align: center;
-color: rgba(117, 117, 117, 1);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(117, 117, 117, 1);
 
-    
+
 }
 
-.person{
+.person {
     position: relative;
     width: 389px;
     height: 389px;
     top: 73px;
-    left: 50px;
+    left: 40px;
     border-radius: 500px 0px 500px 500px;
     -webkit-border-radius: 500px 0px 500px 500px;
     -moz-border-radius: 500px 0px 500px 500px;
@@ -96,14 +96,121 @@ color: rgba(117, 117, 117, 1);
 
 }
 
-.dia{
+.group72 {
+    position: relative;
+    width: 412px;
+    height: 185px;
+    top: -210px;
+    left: 573px;
 
 }
 
-.dia{
+.group72 h1 {
+    width: 153px;
+    height: 30px;
+    border: 0.4000000059604645px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: center;
 
 }
 
-.dia{
+.group72 p {
+    width: 412px;
+    height: 78px;
+    margin-left: 10px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+}
 
+.ellipseSmall .ellipse88 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 140px;
+    left: 13px;
+    border-radius: 100%;
+    background: rgba(38, 57, 237, 1);
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+
+.ellipseSmall .ellipse89 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 140px;
+    left: 48px;
+    border-radius: 100%;
+    background: rgba(231, 240, 252, 0.5);
+}
+
+.ellipseSmall .ellipse90 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 140px;
+    left: 78px;
+    border-radius: 100%;
+    background: rgba(231, 240, 252, 0.5);
+
+}
+
+.ellipseSmall .ellipse91 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 140px;
+    left: 108px;
+    border-radius: 100%;
+    background: rgba(231, 240, 252, 0.5);
+
+}
+
+.ellipseSmall .ellipse92 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 140px;
+    left: 138px;
+    background: rgba(231, 240, 252, 0.5);
+    border-radius: 100%;
+}
+
+.ellipseSmall .ellipse92:hover {
+    border: 2px solid rgba(38, 57, 237, 1);
+
+}
+
+.ellipseSmall .ellipse91:hover {
+    border: 2px solid rgba(38, 57, 237, 1);
+}
+
+.ellipseSmall .ellipse90:hover {
+    border: 2px solid rgba(38, 57, 237, 1);
+}
+
+.ellipseSmall .ellipse89:hover {
+    border: 2px solid rgba(38, 57, 237, 1);
+}
+
+.ellipseSmall .ellipse88:hover {
+    border: 2px solid rgba(231, 240, 252, 1);
+}
+
+.group71 {
+    position: relative;
+    width: 348px;
+    height: 355px;
+    top: -490px;
+    left: 935px;
 }

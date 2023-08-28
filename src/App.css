@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
 .App {
-  text-align: center;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    background: rgba(87, 73, 47, 0.13);
 }

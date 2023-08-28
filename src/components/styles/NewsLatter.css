@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Averta&display=swap");
+
+.newsletter {
+    position: relative;
+    width: 1272px;
+    height: 387px;
+    top: 250px;
+    left: -90px;
+
+}
+
+.newsletter .rectangle30 {
+    position: absolute;
+    width: 1272px;
+    height: 292px;
+    top: 45px;
+    left: 0px;
+    border-radius: 75px;
+    -webkit-border-radius: 75px;
+    -moz-border-radius: 75px;
+    -ms-border-radius: 75px;
+    -o-border-radius: 75px;
+    color: rgba(244, 249, 255, 1);
+}
+
+.subscribe {
+    margin-top: 100px;
+}
+
+.subscribe h1 {
+    width: 386px;
+    height: 49px;
+    margin-left: 80px;
+    font-family: Averta Demo PE Cutted Demo;
+    color: rgba(0, 0, 0, 1);
+
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 49px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.subscribe p {
+    width: 588px;
+    height: 29px;
+    margin-top: 10px;
+    margin-left: 80px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(117, 117, 117, 1);
+}
+
+.rectangle31 {
+    position: relative;
+    width: 543px;
+    height: 292px;
+    top: 45px;
+    left: 650px;
+    border-radius: 80px 80px 80px 150px;
+    background: rgba(38, 57, 237, 1);
+    -webkit-border-radius: 80px 80px 80px 150px;
+    -moz-border-radius: 80px 80px 80px 150px;
+    -ms-border-radius: 80px 80px 80px 150px;
+    -o-border-radius: 80px 80px 80px 150px;
+}
+
+.rectangle31 .rectangle32 input {
+    position: absolute;
+    width: 479px;
+    height: 80px;
+    margin-top: 100px;
+    padding-left: 35px;
+    margin-left: -360px;
+    border-radius: 60px;
+    border: 1px;
+    background: linear-gradient(0deg, #F1F1F1, #F1F1F1), linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    border: 1px solid rgba(241, 241, 241, 1);
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    font-family: Averta Demo PE Cutted Demo;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(149, 149, 149, 1);
+}
+
+.rectangle31 .rectangle32 button {
+    position: absolute;
+    width: Hug (188px);
+    height: Hug (60px);
+    top: 106.33px;
+    left: 207px;
+    padding: 20px 40px 20px 40px;
+    border-radius: 60px;
+    gap: 10px;
+    background: rgba(38, 57, 237, 1);
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    font-family: Averta Demo PE Cutted Demo;
+    letter-spacing: 0.065em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+
+.group73 {
+    width: 175px;
+    height: 154px;
+    margin-top: -295px;
+    margin-left: 1095px;
+}

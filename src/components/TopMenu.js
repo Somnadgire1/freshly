@@ -5,32 +5,34 @@ import OurClient from './OurClient';
 import Services from './Services';
 import GreateSince from './GreatSince';
 import HappyClient from './HappyClient';
+import NewsLetter from './NewsLetter';
+import Footer from './Footer';
 
 export default function TopMenu() {
   return (
     <div className='topmenu'>
-<nav class="navbar navbar-expand-lg">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">A+ Studio</a>
-    <div class="collapse navbar-collapse" >
-      <ul class="navbar-nav">
-        <li class="navbar-item">
-          <a class="nav-link" href="#">Home</a>
+<nav className="navbar navbar-expand-lg">
+  <div className="container-fluid">
+    <a className="navbar-brand fs-3" href="/">A+ Studio</a>
+    <div className="collapse navbar-collapse" >
+      <ul className="navbar-nav">
+        <li className="navbar-item">
+          <a className="nav-link" href='/'>Home</a>
         </li>
-        <li class="navbar-item">
-          <a class="nav-link" href="#">What We Do</a>
+        <li className="navbar-item">
+          <a className="nav-link" href='/'>What We Do</a>
         </li>
-        <li class="navbar-item">
-          <a class="nav-link" href="#">Service</a>
+        <li className="navbar-item">
+          <a className="nav-link" href="#">Service</a>
         </li>
-        <li class="navbar-item">
-          <a class="nav-link" href="#">Project</a>
+        <li className="navbar-item">
+          <a className="nav-link" href="#">Project</a>
         </li>
-        <li class="navbar-item">
-          <a class="nav-link" href="#">Blog</a>
+        <li className="navbar-item">
+          <a className="nav-link" href="#">Blog</a>
         </li>
-        <li class="navbar-item">
-          <a class="nav-link" href="#">Contact</a>
+        <li className="navbar-item">
+          <a className="nav-link" href="#">Contact</a>
         </li>
       </ul>
     </div>
@@ -41,6 +43,8 @@ export default function TopMenu() {
 <Services/>
 <GreateSince/>
 <HappyClient/>
+<NewsLetter/>
+<Footer/>
     </div>
   )
 }

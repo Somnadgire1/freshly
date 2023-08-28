@@ -3,7 +3,6 @@ import './styles/HeroHeadline.css';
 import Dot from '../images/DotOrnament.png';
 import Ellipse from '../images/Ellipse85.png';
 import Img8 from '../images/image8.png';
-// import Rectangle23 from '../images/rectangle2.png'
 
 export default function HeroHeadline() {
   return (
